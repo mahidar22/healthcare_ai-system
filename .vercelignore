@@ -1,0 +1,8 @@
+backend/
+ml/
+tests/
+data/
+uploads/
+requirements.txt
+render.yaml
+generate_dummy_data.py
