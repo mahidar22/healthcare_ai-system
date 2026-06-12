@@ -1,0 +1,8 @@
+id,item_name,category,total_quantity,available_quantity,in_use_quantity,maintenance_quantity,location,status
+R001,Advanced ICU Ventilators,Life Support,45,12,30,3,ICU Block A,Critical Storage
+R002,Portable Oxygen Cylinders,Oxygen Supply,250,180,60,10,Central Oxygen Store,Optimal
+R003,Liquid Oxygen Concentrators,Oxygen Supply,80,35,42,3,Ward Block B,Optimal
+R004,Defibrillators,Emergency,30,22,7,1,Emergency Ward,Optimal
+R005,Dialysis Machines,Specialized,20,4,15,1,Nephrology Dept,Critical Storage
+R006,ECG Monitors,Diagnostic,100,45,52,3,Cardiology & General,Optimal
+R007,Infusion Pumps,Equipment,150,65,80,5,All Wards,Optimal

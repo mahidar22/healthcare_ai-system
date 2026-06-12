@@ -1,0 +1,7 @@
+id,name,email,specialization,phone,department,availability,rating,experience_years
+D001,Dr. Sarah Jenkins,doctor@health.ai,Cardiology,+91 9876543210,Cardiology,Available,4.9,14
+D002,Dr. Rajesh Sharma,rajesh.sharma@health.ai,Endocrinology,+91 9876543211,Endocrinology,Available,4.8,10
+D003,Dr. Priya Anandan,priya.anandan@health.ai,Nephrology,+91 9876543212,Nephrology,On Leave,4.7,8
+D004,Dr. Amit Patel,amit.patel@health.ai,Oncology,+91 9876543213,Oncology,Available,4.9,18
+D005,Dr. Emily Watson,emily.watson@health.ai,Neurology,+91 9876543214,Neurology,In Surgery,4.6,12
+D006,Dr. Vikram Malhotra,vikram.malhotra@health.ai,General Medicine,+91 9876543215,General Medicine,Available,4.8,22

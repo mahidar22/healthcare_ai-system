@@ -1,0 +1,5 @@
+id,patient_id,patient_name,report_type,report_date,summary,abnormal_flags,file_path
+REP001,P001,John Doe,Complete Blood Count (CBC),2026-06-01,Mild anemia with hemoglobin at 12.8 g/dL. WBC count normal.,Hemoglobin (Low),uploads/lab_reports/REP001_CBC.pdf
+REP002,P001,John Doe,Lipid Profile,2026-06-05,Total Cholesterol is elevated at 245 mg/dL. High LDL observed.,"Cholesterol (High), LDL (High)",uploads/lab_reports/REP002_Lipid.pdf
+REP003,P002,Sarah Smith,Fasting Blood Sugar,2026-06-08,Fasting blood glucose elevated at 142 mg/dL. Indicative of Type 2 Diabetes.,Fasting Glucose (High),uploads/lab_reports/REP003_FBS.pdf
+REP004,P003,Michael Johnson,Renal Function Test,2026-06-10,Serum Creatinine slightly elevated at 1.4 mg/dL. BUN within normal margin.,Creatinine (Elevated),uploads/lab_reports/REP004_RFT.pdf

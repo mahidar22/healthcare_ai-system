@@ -1,0 +1,6 @@
+id,patient_id,patient_name,doctor_id,doctor_name,specialization,appointment_date,appointment_time,status,notes
+A001,P001,John Doe,D001,Dr. Sarah Jenkins,Cardiology,2026-06-13,10:00 AM,Confirmed,Routine heart checkup and ECG review.
+A002,P002,Sarah Smith,D002,Dr. Rajesh Sharma,Endocrinology,2026-06-14,11:30 AM,Confirmed,HbA1c consultation.
+A003,P003,Michael Johnson,D001,Dr. Sarah Jenkins,Cardiology,2026-06-15,02:00 PM,Pending,High blood pressure follow-up.
+A004,P004,Emily Williams,D004,Dr. Amit Patel,Oncology,2026-06-16,04:00 PM,Rescheduled,Biopsy report discussion.
+A005,P001,John Doe,D006,Dr. Vikram Malhotra,General Medicine,2026-06-07,09:00 AM,Completed,Viral fever and body ache.

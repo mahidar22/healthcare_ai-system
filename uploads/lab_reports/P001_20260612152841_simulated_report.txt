@@ -1,0 +1,10 @@
+PATIENT MEDICAL LAB SCAN 2026
+Patient Name: John Doe
+Age: 52
+
+--- CLINICAL ASSAYS ---
+Fasting Blood Sugar: 158 mg/dL  (Ref: 70-99)
+Hemoglobin: 11.1 g/dL  (Ref: 13.5-17.5)
+Total Cholesterol: 265 mg/dL  (Ref: < 200)
+Serum Creatinine: 1.4 mg/dL  (Ref: 0.6-1.2)
+Blood Pressure: 160/98 mmHg

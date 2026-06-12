@@ -1,0 +1,56 @@
+[
+    {
+        "id": "EHR001",
+        "patient_id": "P001",
+        "patient_name": "John Doe",
+        "doctor_id": "D001",
+        "doctor_name": "Dr. Sarah Jenkins",
+        "date": "2026-06-05",
+        "diagnosis": "Stage 1 Hypertension & Hyperlipidemia",
+        "treatment_given": "Prescribed lifestyle modification and cholesterol-lowering medication.",
+        "prescriptions": [
+            {
+                "medicine": "Atorvastatin",
+                "dosage": "20mg",
+                "frequency": "Once daily at night",
+                "duration": "30 Days"
+            },
+            {
+                "medicine": "Amlodipine",
+                "dosage": "5mg",
+                "frequency": "Once daily in morning",
+                "duration": "30 Days"
+            }
+        ],
+        "vitals": {
+            "bp": "145/92",
+            "hr": "82",
+            "temp": "98.6 F",
+            "spO2": "98%"
+        }
+    },
+    {
+        "id": "EHR002",
+        "patient_id": "P002",
+        "patient_name": "Sarah Smith",
+        "doctor_id": "D002",
+        "doctor_name": "Dr. Rajesh Sharma",
+        "date": "2026-06-08",
+        "diagnosis": "Type 2 Diabetes Mellitus",
+        "treatment_given": "Initiated Metformin therapy. Recommended dietary overhaul and regular walking.",
+        "prescriptions": [
+            {
+                "medicine": "Metformin",
+                "dosage": "500mg",
+                "frequency": "Twice daily with meals",
+                "duration": "60 Days"
+            }
+        ],
+        "vitals": {
+            "bp": "125/80",
+            "hr": "76",
+            "temp": "98.4 F",
+            "spO2": "99%"
+        }
+    }
+]

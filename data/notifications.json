@@ -1,0 +1,26 @@
+[
+    {
+        "id": "N1",
+        "title": "Critical Resource Alert",
+        "message": "ICU Ventilators availability is below 30% capacity in ICU Block A.",
+        "date": "2026-06-12 08:00 AM",
+        "type": "warning",
+        "read": false
+    },
+    {
+        "id": "N2",
+        "title": "New Appointment Requested",
+        "message": "Michael Johnson booked a Cardiology appointment with Dr. Sarah Jenkins.",
+        "date": "2026-06-12 07:30 AM",
+        "type": "info",
+        "read": false
+    },
+    {
+        "id": "N3",
+        "title": "Lab Report Ready",
+        "message": "John Doe's Lipid Profile report has been automatically parsed and flagged.",
+        "date": "2026-06-11 04:15 PM",
+        "type": "success",
+        "read": true
+    }
+]

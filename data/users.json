@@ -1,0 +1,26 @@
+[
+    {
+        "id": "U001",
+        "name": "John Doe",
+        "email": "patient@health.ai",
+        "password": "password123",
+        "role": "patient",
+        "patient_id": "P001"
+    },
+    {
+        "id": "U002",
+        "name": "Dr. Sarah Jenkins",
+        "email": "doctor@health.ai",
+        "password": "password123",
+        "role": "doctor",
+        "doctor_id": "D001",
+        "specialization": "Cardiology"
+    },
+    {
+        "id": "U003",
+        "name": "Super Admin",
+        "email": "admin@health.ai",
+        "password": "password123",
+        "role": "admin"
+    }
+]
